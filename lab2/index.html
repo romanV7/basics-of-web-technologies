@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Воловик Роман Володимирович, IП-93, Лабораторна 2, Варіант 7</title>
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="Воловик, IП-93, Роман" />
+    <meta name="description" content="Лабораторна 2, Воловика Романа" />
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      tr:first-child {
+        background-color: #078f8f;
+        color: white;
+      }
+      tr:first-child:hover {
+        background-color: #f55a00;
+        color: black;
+      }
+      tr:nth-child(2) {
+        background-color: #f5f507;
+        color: red;
+      }
+      tr:nth-child(2):hover {
+        background-color: #7800f5;
+        color: #00f545;
+      }
+    </style>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="content">
+      <table>
+        <tr>
+          <td colspan="2" rowspan="2">Воловик</td>
+          <td>Роман</td>
+          <td>Володимирович</td>
+        </tr>
+        <tr>
+          <td>IП-93</td>
+          <td>ЛР-2 Варіант 7</td>
+        </tr>
+        <tr>
+          <td colspan="2">&nbsp;</td>
+          <td>&nbsp;</td>
+          <td rowspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      <div class="clock" id="clock-position">
+        <div class="point point-position"></div>
+        <div class="point point-position"></div>
+        <div class="point point-position"></div>
+        <div class="point point-position"></div>
+        <div id="hour-point-position"></div>
+        <div id="minute-point-position"></div>
+      </div>
+      <div class="clock" id="clock-transform">
+        <div class="point point-transform"></div>
+        <div class="point point-transform"></div>
+        <div class="point point-transform"></div>
+        <div class="point point-transform"></div>
+        <div id="hour-point-transform"></div>
+        <div id="minute-point-transform"></div>
+      </div>
+    </div>
+  </body>
+</html>
