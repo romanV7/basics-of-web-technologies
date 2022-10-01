@@ -1,0 +1,332 @@
+[
+  {
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Madame",
+          "first": "Lilian",
+          "last": "Gonzalez"
+        },
+        "location": {
+          "street": {
+            "number": 4699,
+            "name": "Rue Paul Bert"
+          },
+          "city": "Oetwil an der Limmat",
+          "state": "Obwalden",
+          "country": "Switzerland",
+          "postcode": 5630,
+          "coordinates": {
+            "latitude": "-49.5309",
+            "longitude": "135.8595"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Adelaide, Darwin"
+          }
+        },
+        "email": "lilian.gonzalez@example.com",
+        "login": {
+          "uuid": "867e7fa9-a2ac-4478-a985-4019588a86e4",
+          "username": "goldenfish116",
+          "password": "keywest",
+          "salt": "jNVrDHPM",
+          "md5": "53b3568adfc81812bf04736f1dd54a09",
+          "sha1": "48fa6df4874e1dd689e15bd02ce1d90e49b6e66e",
+          "sha256": "067aae9aad2b6a120e4eee63e7fb4aed43b2d0721cf0eaf7957f719ab9909c18"
+        },
+        "dob": {
+          "date": "1950-02-13T23:53:17.563Z",
+          "age": 72
+        },
+        "registered": {
+          "date": "2012-09-11T21:59:18.650Z",
+          "age": 10
+        },
+        "phone": "078 539 29 62",
+        "cell": "075 070 97 49",
+        "id": {
+          "name": "AVS",
+          "value": "756.6909.3769.34"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/31.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+        },
+        "nat": "CH"
+      }
+    ],
+    "info": {
+      "seed": "0e39a58d701ce9eb",
+      "results": 1,
+      "page": 1,
+      "version": "1.3"
+    }
+  },
+  {
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Vincent",
+          "last": "Mckinney"
+        },
+        "location": {
+          "street": {
+            "number": 2890,
+            "name": "Green Rd"
+          },
+          "city": "Garland",
+          "state": "Tennessee",
+          "country": "United States",
+          "postcode": 79721,
+          "coordinates": {
+            "latitude": "83.7065",
+            "longitude": "-19.9415"
+          },
+          "timezone": {
+            "offset": "-9:00",
+            "description": "Alaska"
+          }
+        },
+        "email": "vincent.mckinney@example.com",
+        "login": {
+          "uuid": "f91455dc-a0d6-4834-a33b-095c36363f6d",
+          "username": "brownpeacock153",
+          "password": "coleman",
+          "salt": "QdZxGmqQ",
+          "md5": "fd7a999160d0c0fa5168d55f739c7c22",
+          "sha1": "95d792ee2c983d51e7741d62b508631273881ff7",
+          "sha256": "7758f425e818b0154ce8c01e4653ea7572d5a04b68fedfe839df3b86d446ad0f"
+        },
+        "dob": {
+          "date": "1977-05-27T02:47:03.366Z",
+          "age": 45
+        },
+        "registered": {
+          "date": "2008-07-16T07:00:57.215Z",
+          "age": 14
+        },
+        "phone": "(231)-419-4823",
+        "cell": "(138)-075-9905",
+        "id": {
+          "name": "SSN",
+          "value": "636-33-7411"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/79.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+        },
+        "nat": "US"
+      }
+    ],
+    "info": {
+      "seed": "21faf1e1915bd1f6",
+      "results": 1,
+      "page": 1,
+      "version": "1.3"
+    }
+  },
+  {
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Cody",
+          "last": "Go"
+        },
+        "location": {
+          "street": {
+            "number": 549,
+            "name": "Boomgaardweg"
+          },
+          "city": "Spijk Gn",
+          "state": "Friesland",
+          "country": "Netherlands",
+          "postcode": 45680,
+          "coordinates": {
+            "latitude": "46.2396",
+            "longitude": "-54.1497"
+          },
+          "timezone": {
+            "offset": "-10:00",
+            "description": "Hawaii"
+          }
+        },
+        "email": "cody.go@example.com",
+        "login": {
+          "uuid": "23102c36-e140-463b-a6a7-ad5323fcbe47",
+          "username": "redladybug697",
+          "password": "helper",
+          "salt": "5drayoSP",
+          "md5": "baf4bb93264d0d2c6eb065c797af636f",
+          "sha1": "2e9a6678f5065365cf0a838f0782fcb9a86f83cf",
+          "sha256": "09ba64f1b71aa94ff3119318a93532fccdf28a9bf4bd633884ea87f1bbffc493"
+        },
+        "dob": {
+          "date": "1991-03-29T07:19:04.187Z",
+          "age": 31
+        },
+        "registered": {
+          "date": "2008-01-14T22:56:32.606Z",
+          "age": 14
+        },
+        "phone": "(129)-778-2469",
+        "cell": "(582)-650-4284",
+        "id": {
+          "name": "BSN",
+          "value": "49397482"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/24.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+        },
+        "nat": "NL"
+      }
+    ],
+    "info": {
+      "seed": "7b74b42485de54ef",
+      "results": 1,
+      "page": 1,
+      "version": "1.3"
+    }
+  },
+  {
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Sofia",
+          "last": "Soto"
+        },
+        "location": {
+          "street": {
+            "number": 989,
+            "name": "Calle del Prado"
+          },
+          "city": "Castellón de la Plana",
+          "state": "Comunidad de Madrid",
+          "country": "Spain",
+          "postcode": 73841,
+          "coordinates": {
+            "latitude": "-16.8868",
+            "longitude": "173.5060"
+          },
+          "timezone": {
+            "offset": "+5:00",
+            "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+          }
+        },
+        "email": "sofia.soto@example.com",
+        "login": {
+          "uuid": "ee0a1d28-b4c6-4a56-9c85-c2b98434c8fa",
+          "username": "greenrabbit221",
+          "password": "ling",
+          "salt": "rYxQxAeW",
+          "md5": "f63bdf9ed8b0ce9bdf618aa9abd42fc2",
+          "sha1": "68a6d1d81b59cac1c7da4ee53572f963dd1335f2",
+          "sha256": "b1404a168e1c06f250dc2da2761a1cf1520132519922225e2eef4550191a1ad1"
+        },
+        "dob": {
+          "date": "1983-08-03T01:04:12.380Z",
+          "age": 39
+        },
+        "registered": {
+          "date": "2012-08-09T10:13:07.020Z",
+          "age": 10
+        },
+        "phone": "932-285-961",
+        "cell": "646-448-736",
+        "id": {
+          "name": "DNI",
+          "value": "90603276-L"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/50.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+        },
+        "nat": "ES"
+      }
+    ],
+    "info": {
+      "seed": "487dbc792da0c08f",
+      "results": 1,
+      "page": 1,
+      "version": "1.3"
+    }
+  },
+  {
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Taha",
+          "last": "Van der Wende"
+        },
+        "location": {
+          "street": {
+            "number": 3099,
+            "name": "Hengeloseweg"
+          },
+          "city": "Wervershoof",
+          "state": "Overijssel",
+          "country": "Netherlands",
+          "postcode": 33512,
+          "coordinates": {
+            "latitude": "40.4684",
+            "longitude": "-148.0769"
+          },
+          "timezone": {
+            "offset": "-1:00",
+            "description": "Azores, Cape Verde Islands"
+          }
+        },
+        "email": "taha.vanderwende@example.com",
+        "login": {
+          "uuid": "ec64bea4-e4c1-4a97-8809-24ae3094c6c3",
+          "username": "angrymeercat255",
+          "password": "keeper",
+          "salt": "7sVhPKDq",
+          "md5": "69fb498a72cc7509ebb104848685ad19",
+          "sha1": "329c48836fffc38b7bf8a3df5d20806c7a61394f",
+          "sha256": "d44c0d5be03a9cdadf4e6d90dd2ef3cf184c6ecd201eb028787244993b919de0"
+        },
+        "dob": {
+          "date": "1961-01-25T00:56:18.437Z",
+          "age": 61
+        },
+        "registered": {
+          "date": "2013-08-24T11:07:36.895Z",
+          "age": 9
+        },
+        "phone": "(206)-273-7107",
+        "cell": "(223)-164-3845",
+        "id": {
+          "name": "BSN",
+          "value": "94066235"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/87.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+        },
+        "nat": "NL"
+      }
+    ],
+    "info": {
+      "seed": "56a642f5d9189735",
+      "results": 1,
+      "page": 1,
+      "version": "1.3"
+    }
+  }
+]
