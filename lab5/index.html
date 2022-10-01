@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Воловик Роман Володимирович, ІП-93, Лабораторна 5, Варіант 7</title>
+    <meta charset="UTF-8" />
+    <meta name="keywords" content="Воловик, ІП-93, Роман" />
+    <meta
+      name="description"
+      content="Лабораторна 6, Інформація про студента, Воловика Романа"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="form-group">
+      <p>Форма для заповнення</p>
+      <form id="form">
+        <div class="form-line">
+          <input
+            class="valid"
+            placeholder="ПІБ"
+            type="text"
+            id="pib"
+            name="pib"
+          />
+          <span class="alert" style="display: none"
+            >Поле "ПІБ" не валідне! Має бути вид: ТТТТТТ Т.Т.</span
+          >
+        </div>
+        <div class="form-line">
+          <input
+            class="valid"
+            placeholder="Варіант"
+            type="number"
+            id="variant"
+            name="variant"
+          />
+          <span class="alert" style="display: none"
+            >Поле "Варіант" не валідне! Має бути вид: ЧЧ або Ч</span
+          >
+        </div>
+        <div class="form-line">
+          <input
+            class="valid"
+            placeholder="Телефон"
+            type="tel"
+            id="phone"
+            name="phone"
+          />
+          <span class="alert" style="display: none"
+            >Поле "Телефон" не валідне! Має бути вид: (ЧЧЧ)-ЧЧЧ-ЧЧ-ЧЧ</span
+          >
+        </div>
+        <div class="form-line">
+          <input
+            class="valid"
+            placeholder="Факультет"
+            type="text"
+            id="faculty"
+            name="faculty"
+          />
+          <span class="alert" style="display: none"
+            >Поле "Факультет" не валідне! Має бути вид: ТТТТ або ТТТ</span
+          >
+        </div>
+        <div class="form-line">
+          <input
+            class="valid"
+            placeholder="Адреса"
+            type="text"
+            id="address"
+            name="address"
+          />
+          <span class="alert" style="display: none"
+            >Поле "Адреса" не валідне! Має бути вид: м. ЧЧЧЧЧЧ</span
+          >
+        </div>
+        <div class="form-line">
+          <input type="submit" value="Підтвердити" />
+        </div>
+      </form>
+    </div>
+
+    <div id="table-group">
+      <input type="color" id="color" />
+      <table id="table"></table>
+    </div>
+
+    <script src="script.js" async></script>
+  </body>
+</html>

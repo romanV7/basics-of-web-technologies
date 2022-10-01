@@ -1,0 +1,53 @@
+.form-line {
+  display: flex;
+  flex-direction: column;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.form-line input {
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.alert {
+  color: red;
+  font-size: small;
+  margin-top: 3px;
+}
+
+#form-group {
+  height: auto;
+  width: 25%;
+  text-align: center;
+}
+
+#color {
+  width: 260px;
+  margin-bottom: 20px;
+  height: 30px;
+}
+
+table,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+#table-group {
+  margin: 25px;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+
+.invalid {
+  border: 0.5px solid red;
+}
+
+.valid {
+  border: 0.5px solid #8a8a8a;
+}
