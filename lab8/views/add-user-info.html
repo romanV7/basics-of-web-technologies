@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>login</title>
+  </head>
+  <body>
+    <form action="http://localhost:3000/add-user-info" method="POST">
+      <div>
+        <label for="email">email</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="enter name"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="name">name</label>
+        <input
+          type="name"
+          name="name"
+          id="name"
+          placeholder="enter name"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="group">group</label>
+        <input
+          type="group"
+          name="group"
+          id="group"
+          placeholder="enter group"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="phone">phone</label>
+        <input
+          type="phone"
+          name="phone"
+          id="phone"
+          placeholder="enter phone"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="card">card</label>
+        <input
+          type="card"
+          name="card"
+          id="card"
+          placeholder="enter card"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="faculty">faculty</label>
+        <input
+          type="faculty"
+          name="faculty"
+          id="faculty"
+          placeholder="enter faculty"
+          required
+        />
+      </div>
+
+      <button type="submit">add user info</button>
+    </form>
+  </body>
+</html>
