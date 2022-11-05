@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.86de6a93.css","mappings":"AAAA,YAII,kBAAmB,CAHnB,YAAa,CACb,kBAAmB,CACnB,cAAe,CAEf,sBACJ","sources":["style.css"],"sourcesContent":["#goods_list {\r\n    display: flex;\r\n    flex-direction: row;\r\n    flex-wrap: wrap;\r\n    align-items: center;\r\n    justify-content: center;\r\n}\r\n"],"names":[],"sourceRoot":""}
